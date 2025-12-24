@@ -22,13 +22,13 @@ const Contact = () => {
 
             {/* Social Links as Buttons */}
             <div className="social-buttons">
-                <a href="https://github.com/jagadheesan-t" target="_blank" rel="noopener noreferrer" className="contact-button">
+                <a href="https://github.com/jxgadheesan" target="_blank" rel="noopener noreferrer" className="contact-button">
                     GitHub →
                 </a>
-                <a href="https://linkedin.com/in/jagadheesan-t" target="_blank" rel="noopener noreferrer" className="contact-button">
+                <a href="https://linkedin.com/in/jxgadheesan" target="_blank" rel="noopener noreferrer" className="contact-button">
                     LinkedIn →
                 </a>
-                <a href="https://twitter.com/jagadheesan-t" target="_blank" rel="noopener noreferrer" className="contact-button">
+                <a href="https://twitter.com/jxgadheesan" target="_blank" rel="noopener noreferrer" className="contact-button">
                     Twitter →
                 </a>
             </div>

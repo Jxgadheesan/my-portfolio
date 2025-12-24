@@ -30,7 +30,7 @@ const Projects = () => {
                         <h3>Personal Portfolio</h3>
                         <p>Minimal. Modern. Impactful. A visually stunning portfolio that represents my skills and creativity.</p>
                         <motion.a 
-                            href="https://github.com/Jagadheesan-T/Portfolio" 
+                            href="https://github.com/Jxgadheesan-T/Portfolio"
                             className="explore-btn"
                             whileHover={{ backgroundColor: "#ffffff", color: "#0d0d0d" }}
                         >
@@ -44,10 +44,10 @@ const Projects = () => {
                         whileHover={{ scale: 1.05, boxShadow: "0 8px 20px rgba(255, 255, 255, 0.2)" }}
                         transition={{ duration: 0.3 }}
                     >
-                        <h3>To-Do Application</h3>
-                        <p>Efficiency redefined. A seamless task management tool designed for productivity and simplicity.</p>
+                        <h3>Space missions cleaning</h3>
+                        <p>About Full Pandas cleaning pipeline on 5,000+ space mission records.</p>
                         <motion.a 
-                            href="https://github.com/yourusername/todo-app" 
+                            href="https://github.com/Jxgadheesan/space-missions-cleaning" 
                             className="explore-btn"
                             whileHover={{ backgroundColor: "#ffffff", color: "#0d0d0d" }}
                         >
